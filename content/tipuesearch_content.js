@@ -1,0 +1,1 @@
+var tipuesearch = {"pages": [{'title': 'About', 'text': '倉儲網址:\xa0 https://github.com/40823210/cad2020 \n \n', 'tags': '', 'url': 'About.html'}]};
