@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': '倉儲網址:\xa0 https://github.com/40823210/cad2020 \n \n', 'tags': '', 'url': 'About.html'}, {'title': 'W1', 'text': '零件1 \n \n', 'tags': '', 'url': 'W1.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': '倉儲網址:\xa0 https://github.com/40823210/cad2020 \n \n', 'tags': '', 'url': 'About.html'}, {'title': 'W1', 'text': '零件1 \n \n 零件2 \n \n', 'tags': '', 'url': 'W1.html'}]};
